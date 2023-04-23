@@ -1,0 +1,9 @@
+.animation {
+    animation: scale ease 0.5s linear !important;
+}
+
+@keyframes scale {
+    from {
+        transform: scale(1);
+    }
+}
